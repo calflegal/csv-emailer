@@ -1,0 +1,30 @@
+<html>
+	<body>
+		<p>
+			</p>
+		<p>
+			I hope you&rsquo;re doing well this week.</p>
+		<p>
+			</p>
+		<p>
+			This is just a quick reminder about the upcoming <em>Wine Wednesday</em> Benefit Event at the Harvard Club Downtown in Boston this Wednesday. It&rsquo;s sponsored by my organization, <a href="http://www.r2integrated.com">R2integrated</a>, and <a href="http://womma.org/main/">WOMMA</a>, in support of the <a href="http://www.lls.org/">Leukemia &amp; Lymphoma Society</a>.</p>
+		<p>
+			</p>
+		<p>
+			You&rsquo;ll have the opportunity to discuss social media strategy and help raise awareness for the ongoing medical battle against leukemia and lymphoma.</p>
+		<p>
+			</p>
+		<p>
+			Please use this link to confirm your attendance. Remember if you plan to bring a guest, please add their name also:</p>
+		<p>
+			</p>
+		<p>
+			<a href="http://fourcitieswinewednesday.eventbrite.com/">http://fourcitieswinewednesday.eventbrite.com/</a></p>
+		<p>
+			</p>
+		<p>
+			I hope you can make it.</p>
+			
+			<p>Best Regards,</p><br />
+			<span style="font-size: 20px;font: Tahoma; color: #2E2695"><strong><em>Andy</em></strong></span><span style=\"font-size: 10px;\"><p>Andy Maddocks | COO and President (Boston Office)<br />R2integrated - Digital Marketing & Technology<br />One Broadway, 14th Floor  -  Cambridge, MA 02142  USA<br />[P] 617-395-4288 [M] 678-325-8922<br />www.r2integrated.com<http://www.r2integrated.com/> | facebook.com/r2integrated<br />Linkedin.com/in/AndyMaddocks | Skype: AndyMaddocksR2i<br />Twitter: @AndyMaddocks<br /></p><br /></span></body>
+</html>
